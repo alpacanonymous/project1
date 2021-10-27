@@ -10,7 +10,7 @@ This project analyzes multiple movie datasets to come up with a business plan fo
 
 Microsoft wants to create a new movie studio but requires data-driven recommendations in order to decide what types of films to produce.
 
-* *Which films in the past two decades have made the most profit?*
+* *Which films in the past decades have made the most profit?*
 * *What are the genres of these films?*
 * *Which films and genres are the most popular?*
 * *Is there correlation between genre and profit?*
