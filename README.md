@@ -29,7 +29,8 @@ Datasets from IMDB, TheMovieDB, Box Office Mojo, and Rotten Tomatoes are analyze
 
 ## Conclusions
 
-blah blah blah
+This analysis leads to three recommendations for Microsoft's new movie studio.
+* The consistent trend of movies in the last decade have geared towards sci-fi, action, and adventure, or a combination of the three. Therefore, we recommend Microsoft focus on making movies like this because of the correlation between these three genres and profits.
 
 ## Summary
 
