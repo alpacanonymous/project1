@@ -14,6 +14,7 @@ Microsoft wants to create a new movie studio but requires data-driven recommenda
 * *What are the genres of these films?*
 * *Which films and genres are the most popular?*
 * *Is there correlation between genre and profit?*
+* *What is the relationship between genre and vote average?*
 
 ## Data Understanding & Analysis
 
