@@ -31,6 +31,8 @@ Datasets from IMDB, TheMovieDB, Box Office Mojo, and Rotten Tomatoes are analyze
 
 This analysis leads to three recommendations for Microsoft's new movie studio.
 * The consistent trend of movies in the last decade have geared towards sci-fi, action, and adventure, or a combination of the three. Therefore, we recommend Microsoft focus on making movies like this because of the correlation between these three genres and profits.
+* Any action/scifi/adventures movies made should be based upon Microsoft properties (Halo, Minecraft, etc). The highest grossing films are all established properties with large fanbases, and it is our recommendation that Microsoft follow suit with their own. This will ensure Microsoft isn't burdened with license and copyright fees for action content production.
+* Drama and Comedy content are two other genres that should be considered. These genres dominate movie creation and also yield high profits. Animated comedy films typically have lower budgets, and the recent increase in cultural popularity of animated content encourages increased content creation. Drama films are consistently popular and have crossover appeal between genres (romance, adventure, scifi, etc) as well. Drama films can be based upon established properties or original creations.
 
 ## Summary
 
