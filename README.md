@@ -18,8 +18,7 @@ Microsoft wants to create a new movie studio but requires data-driven recommenda
 
 ## Data Understanding & Analysis
 
-blah blah blah
-
+Action, adventure, fantasy,sci-fi, comedy and animated movies are where focus should be. While animated has the highest rating the other 5 categories have higher volumes of consumer interaction.
 
 ## Data Sources
 
