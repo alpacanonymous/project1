@@ -31,7 +31,7 @@ Action, adventure, fantasy, sci-fi, comedy and animated movies are where the foc
 
 Over the last decade, domestic and worldwide film profits reveal general audiences gear toward familiarity, vastly preferring sequels and already established franchises over original content. They also show that the majority of the most profitable films of the last decade have been produced by Buena Vista and Universal Pictures. 67% of the top 30 films that made the highest domestic profits were produced by either Buena Vista or Universal Pictures, and when we take a look at worldwide profits, that market share is even higher at 73%.
 
-![image](https://user-images.githubusercontent.com/92397140/139460568-2fe5de46-792d-4a0a-a49b-9ac67239848f.png)
+<img width="999" alt="Screen Shot 2021-10-29 at 11 52 23 AM" src="https://user-images.githubusercontent.com/79756630/139465728-1d25a967-4b93-4d1a-b5b9-4424c8992754.png">
 
 <img width="997" alt="Screen Shot 2021-10-28 at 9 28 16 PM" src="https://user-images.githubusercontent.com/79756630/139405185-33396ed5-1e8c-459b-9d62-d247f37466a8.png">
 
