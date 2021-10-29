@@ -17,7 +17,7 @@ Microsoft wants to create a new movie studio but requires data-driven recommenda
 * *What is the relationship between genre and vote average?*
 * *Can Microsoft capitalize on its own franchises?*
 * *What can we learn from other production studios?*
-* *Would it cost-effective to acquire a smaller, already established studio?*
+* *Would it be cost-effective to acquire a smaller, already established studio?*
 
 ## Data Sources & Methods
 
