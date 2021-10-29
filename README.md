@@ -17,7 +17,7 @@ Microsoft wants to create a new movie studio but requires data-driven recommenda
 * *What is the relationship between genre and vote average?*
 * *Can Microsoft capitalize on its own franchises?*
 * *What can we learn from other production studios?*
-* *Would it cost-effective to acquire a smaller, already established studio?
+* *Would it cost-effective to acquire a smaller, already established studio?*
 
 ## Data Sources & Methods
 
@@ -28,6 +28,8 @@ Methods: Exploratory Data Analysis (EDA)
 ## Data Understanding & Analysis
 
 Action, adventure, fantasy, sci-fi, comedy and animated movies are where the focus should be. While animated has the highest rating the other 5 categories have higher volumes of consumer interaction.
+
+Over the last decade, domestic and worldwide film profits reveal general audiences gear toward familiarity, vastly preferring sequels and already established franchises over original content. They also show that the majority of the most profitable films of the last decade have been produced by Buena Vista and Universal Pictures. 67% of the top 30 films that made the highest domestic profits were produced by either Buena Vista or Universal Pictures, and when we take a look at worldwide profits, that market share is even higher at 73%.
 
 <img width="997" alt="Screen Shot 2021-10-28 at 9 28 16 PM" src="https://user-images.githubusercontent.com/79756630/139405185-33396ed5-1e8c-459b-9d62-d247f37466a8.png">
 
