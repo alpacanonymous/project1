@@ -30,10 +30,14 @@ Databases: IMDB, TheMovieDB, Box Office Mojo, the Numbers, and Rotten Tomatoes.
 
 This graph shows the correlation between the average ratings. Movies were given by genre, while genres can overlap, the focus of resources should be towards action, adventure, fantasy, sci-fi, comedy and crime movies. Crime has the highest rating, but the other 5 categories have higher volumes of consumer interaction.
 
-
 <img width="995" alt="Screen Shot 2021-10-29 at 12 02 55 PM" src="https://user-images.githubusercontent.com/79756630/139467000-68f80c70-d829-4d7b-9a02-b12c30b22c23.png">
 
+From the IMDB dataset, we have extracted the top ten quantiles of the movie rating vote counts. Although drama and comedy movies are more prevalent in the top ten quantiles, action and adventure movies have much higher average vote counts. This indicates that as we move up to the higher quantile in vote counts, the number of action and adventure movies grows.
+
 <img width="999" alt="Screen Shot 2021-10-29 at 11 52 23 AM" src="https://user-images.githubusercontent.com/79756630/139465728-1d25a967-4b93-4d1a-b5b9-4424c8992754.png">
+
+This top one quantile visualization confirms that as we move up to datas in the higher quantile, number of action and adventure movies increases.
+
 <img width="1015" alt="Screen Shot 2021-10-28 at 08 09 05" src="https://user-images.githubusercontent.com/92397144/139473439-365423da-2b99-4567-9034-570b6708d852.png">
 <img width="990" alt="Screen Shot 2021-10-29 at 11 47 16" src="https://user-images.githubusercontent.com/92397144/139473984-c5cf8337-2353-4963-93a8-5f53bef0f07f.png">
 
