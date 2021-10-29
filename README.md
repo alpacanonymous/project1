@@ -4,27 +4,32 @@
 
 ## Overview
 
-This project analyzes multiple movie datasets to come up with a business plan for Microsoft's new movie studio.
+This project analyzes movie datasets from multiple databases to come up with a business plan for Microsoft's new movie studio.
 
 ## Business Problem & Key Questions
 
 Microsoft wants to create a new movie studio but requires data-driven recommendations in order to decide what types of films to produce.
 
-* *Which films in the past two decades have made the most profit?*
+* *Which films in the past decade have made the most profit?*
 * *What are the genres of these films?*
 * *Which films and genres are the most popular?*
 * *Is there correlation between genre and profit?*
 * *What is the relationship between genre and vote average?*
+* *Can Microsoft capitalize on its own franchises?*
+* *What can we learn from other production studios?*
+* *Would it cost-effective to acquire a smaller, already established studio?
+
+## Data Sources & Methods
+
+Databases: IMDB, TheMovieDB, Box Office Mojo, the Numbers, and Rotten Tomatoes.
+
+Methods: Exploratory Data Analysis (EDA)
 
 ## Data Understanding & Analysis
 
-Action, adventure, fantasy,sci-fi, comedy and animated movies are where focus should be. While animated has the highest rating the other 5 categories have higher volumes of consumer interaction.
+Action, adventure, fantasy, sci-fi, comedy and animated movies are where the focus should be. While animated has the highest rating the other 5 categories have higher volumes of consumer interaction.
 
-## Data Sources
-
-Datasets from IMDB, TheMovieDB, Box Office Mojo, and Rotten Tomatoes are analyzed for this project.
-
------visualizations-----
+<img width="997" alt="Screen Shot 2021-10-28 at 9 28 16 PM" src="https://user-images.githubusercontent.com/79756630/139405185-33396ed5-1e8c-459b-9d62-d247f37466a8.png">
 
 ## Conclusions
 
