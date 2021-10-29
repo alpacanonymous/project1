@@ -23,11 +23,13 @@ Microsoft wants to create a new movie studio but requires data-driven recommenda
 
 Databases: IMDB, TheMovieDB, Box Office Mojo, the Numbers, and Rotten Tomatoes.
 
-Methods: Exploratory Data Analysis (EDA)
-
 ## Data Understanding & Analysis
 
-Action, adventure, fantasy, sci-fi, comedy and animated movies are where the focus should be. While animated has the highest rating the other 5 categories have higher volumes of consumer interaction.
+
+<img width="701" alt="Screen Shot 2021-10-29 at 11 07 19 AM" src="https://user-images.githubusercontent.com/92389914/139475623-c30b8f71-98f5-43f2-a123-9ab2d26d338c.png">
+
+This graph shows the correlation between the average ratings. Movies were given by genre, while genres can overlap, the focus of resources should be towards action, adventure, fantasy, sci-fi, comedy and crime movies. Crime has the highest rating, but the other 5 categories have higher volumes of consumer interaction.
+
 
 <img width="995" alt="Screen Shot 2021-10-29 at 12 02 55 PM" src="https://user-images.githubusercontent.com/79756630/139467000-68f80c70-d829-4d7b-9a02-b12c30b22c23.png">
 
