@@ -32,6 +32,9 @@ Action, adventure, fantasy, sci-fi, comedy and animated movies are where the foc
 <img width="995" alt="Screen Shot 2021-10-29 at 12 02 55 PM" src="https://user-images.githubusercontent.com/79756630/139467000-68f80c70-d829-4d7b-9a02-b12c30b22c23.png">
 
 <img width="999" alt="Screen Shot 2021-10-29 at 11 52 23 AM" src="https://user-images.githubusercontent.com/79756630/139465728-1d25a967-4b93-4d1a-b5b9-4424c8992754.png">
+<img width="1015" alt="Screen Shot 2021-10-28 at 08 09 05" src="https://user-images.githubusercontent.com/92397144/139473439-365423da-2b99-4567-9034-570b6708d852.png">
+
+
 
 Over the last decade, domestic and worldwide film profits reveal general audiences gear toward familiarity, vastly preferring sequels and already established franchises over original content. They also show that the majority of the most profitable films of the last decade have been produced by Buena Vista and Universal Pictures.
 
