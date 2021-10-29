@@ -36,14 +36,16 @@ This graph shows the correlation between the average ratings. Movies were given 
 <img width="999" alt="Screen Shot 2021-10-29 at 11 52 23 AM" src="https://user-images.githubusercontent.com/79756630/139465728-1d25a967-4b93-4d1a-b5b9-4424c8992754.png">
 
 According to the data from Rotten Tomatoes, the movie genres that get produced the most are drama, comedy, action, romance and animation or the combination of those. Out of those top genres, the drama and the comedy genres production have been mostly declining over the course of the last decade.    
-<img width="1015" alt="Screen Shot 2021-10-28 at 08 09 05" src="https://user-images.githubusercontent.com/92397144/139473439-365423da-2b99-4567-9034-570b6708d852.png">
+
+<img width="1011" alt="Screen Shot 2021-10-29 at 2 55 23 PM" src="https://user-images.githubusercontent.com/79756630/139489548-a5a55342-2022-4b80-9f05-c532e9bdffd2.png">
 
 The average critical rating was the highest for the "Art House and International", the drama and the comedy genres compared to others. 
+
 <img width="990" alt="Screen Shot 2021-10-29 at 11 47 16" src="https://user-images.githubusercontent.com/92397144/139473984-c5cf8337-2353-4963-93a8-5f53bef0f07f.png">
 
 Over the last decade, domestic and worldwide film profits reveal general audiences gear toward familiarity, vastly preferring sequels and already established franchises over original content. They also show that the majority of the most profitable films of the last decade have been produced by Buena Vista and Universal Pictures.
 
-<img width="1008" alt="Screen Shot 2021-10-29 at 10 18 03 AM" src="https://user-images.githubusercontent.com/79756630/139465925-d3faaa39-7eee-4be8-a0c9-7b0777b73a20.png">
+<img width="1046" alt="Screen Shot 2021-10-29 at 10 24 53 AM" src="https://user-images.githubusercontent.com/79756630/139489715-1cae4f6d-1c66-4155-9adc-2f6f25c56244.png">
 
 67% of the top 30 films that made the highest domestic profits were produced by either Buena Vista or Universal Pictures, and when we take a look at worldwide profits, that market share is even higher at 73%.
 
@@ -51,17 +53,16 @@ Over the last decade, domestic and worldwide film profits reveal general audienc
 
 <img width="997" alt="Screen Shot 2021-10-28 at 9 28 16 PM" src="https://user-images.githubusercontent.com/79756630/139405185-33396ed5-1e8c-459b-9d62-d247f37466a8.png">
 
-Franchise films and the studios that produce them have the highest domestic gross. The third visual shows us that smaller studios (IFC, SPC, Wein), while creating a lot of content, do not yield the same gross. Therefore, we recommend that Microsoft focuses on content based on their own gaming properties to create content. 
+Franchise films and the studios that produce them have the highest domestic gross. The second visual shows us that smaller studios (IFC, SPC, Wein), while creating a lot of content, do not yield the same gross. Therefore, we recommend that Microsoft focuses on content based on their own gaming properties to create content. 
 
-![Screenshot 2021-10-29 114056](https://user-images.githubusercontent.com/72315132/139463832-a5f99f4c-30fb-496b-8706-fb92707eedc0.png)
+<img width="1013" alt="Screen Shot 2021-10-29 at 12 53 51 PM" src="https://user-images.githubusercontent.com/79756630/139489812-cb58c0b6-0c24-4982-b1ee-e15d450142be.png">
 
 Studio acquisition is highly recommended, as the top content producers all operate under parent companies. Mini-major studios such as Relativity Media can be
 acquired by Microsoft to boost content production.
 
-![Screenshot 2021-10-29 114123](https://user-images.githubusercontent.com/72315132/139463851-36462609-b5e7-4aa6-b5a4-cdd4a957d08c.png)
+<img width="1005" alt="Screen Shot 2021-10-29 at 12 44 28 PM" src="https://user-images.githubusercontent.com/79756630/139489846-fc7cfb15-ac9f-4c61-b36e-81837ef3597e.png">
 
 ## Conclusions
-
 This analysis leads to three recommendations for Microsoft's new movie studio.
 * The consistent trend of movies in the last decade have geared towards sci-fi, action, and adventure, or a combination of the three. Therefore, we recommend Microsoft focus on making movies like this because of the correlation between these three genres and profits.
 * Any action/scifi/adventures movies made should be based upon Microsoft properties (Halo, Minecraft, etc). The highest grossing films are all established properties with large fanbases, and it is our recommendation that Microsoft follow suit with their own. This will ensure Microsoft isn't burdened with license and copyright fees for action content production.
