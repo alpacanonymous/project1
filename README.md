@@ -35,10 +35,9 @@ Action, adventure, fantasy, sci-fi, comedy and animated movies are where the foc
 
 According to the data from Rotten Tomatoes, the movie genres that get produced the most are drama, comedy, action, romance and animation or the combination of those. Out of those top genres, the drama and the comedy genres production have been mostly declining over the course of the last decade.    
 <img width="1015" alt="Screen Shot 2021-10-28 at 08 09 05" src="https://user-images.githubusercontent.com/92397144/139473439-365423da-2b99-4567-9034-570b6708d852.png">
+
+The average critical rating was the highest for the "Art House and International", the drama and the comedy genres compared to others. 
 <img width="990" alt="Screen Shot 2021-10-29 at 11 47 16" src="https://user-images.githubusercontent.com/92397144/139473984-c5cf8337-2353-4963-93a8-5f53bef0f07f.png">
-
-<img width="750" alt="Screen Shot 2021-10-29 at 11 46 19" src="https://user-images.githubusercontent.com/92397144/139474001-8828ba47-e0f8-4ad0-9ca8-877c3db62576.png">
-
 
 Over the last decade, domestic and worldwide film profits reveal general audiences gear toward familiarity, vastly preferring sequels and already established franchises over original content. They also show that the majority of the most profitable films of the last decade have been produced by Buena Vista and Universal Pictures.
 
