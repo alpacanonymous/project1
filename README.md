@@ -23,21 +23,17 @@ Microsoft wants to create a new movie studio but requires data-driven recommenda
 
 Databases: IMDB, TheMovieDB, Box Office Mojo, the Numbers, and Rotten Tomatoes.
 
+Methods: Exploratory Data Analysis (EDA)
+
 ## Data Understanding & Analysis
 
-
-<img width="701" alt="Screen Shot 2021-10-29 at 11 07 19 AM" src="https://user-images.githubusercontent.com/92389914/139475623-c30b8f71-98f5-43f2-a123-9ab2d26d338c.png">
-
-This graph shows the correlation between the average ratings. Movies were given by genre, while genres can overlap, the focus of resources should be towards action, adventure, fantasy, sci-fi, comedy and crime movies. Crime has the highest rating, but the other 5 categories have higher volumes of consumer interaction.
+Action, adventure, fantasy, sci-fi, comedy and animated movies are where the focus should be. While animated has the highest rating the other 5 categories have higher volumes of consumer interaction.
 
 <img width="995" alt="Screen Shot 2021-10-29 at 12 02 55 PM" src="https://user-images.githubusercontent.com/79756630/139467000-68f80c70-d829-4d7b-9a02-b12c30b22c23.png">
 
-From the IMDB dataset, we have extracted the top ten quantiles of the movie rating vote counts. Although drama and comedy movies are more prevalent in the top ten quantiles, action and adventure movies have much higher average vote counts. This indicates that as we move up to the higher quantile in vote counts, the number of action and adventure movies grows.
-
 <img width="999" alt="Screen Shot 2021-10-29 at 11 52 23 AM" src="https://user-images.githubusercontent.com/79756630/139465728-1d25a967-4b93-4d1a-b5b9-4424c8992754.png">
 
-This top one quantile visualization confirms that as we move up to datas in the higher quantile, number of action and adventure movies increases.
-
+According to the data from Rotten Tomatoes, the movie genres that get produced the most are drama, comedy, action, romance and animation or the combination of those. Out of those top genres, the drama and the comedy genres production have been mostly declining over the course of the last decade.    
 <img width="1015" alt="Screen Shot 2021-10-28 at 08 09 05" src="https://user-images.githubusercontent.com/92397144/139473439-365423da-2b99-4567-9034-570b6708d852.png">
 <img width="990" alt="Screen Shot 2021-10-29 at 11 47 16" src="https://user-images.githubusercontent.com/92397144/139473984-c5cf8337-2353-4963-93a8-5f53bef0f07f.png">
 
@@ -54,9 +50,9 @@ Over the last decade, domestic and worldwide film profits reveal general audienc
 
 <img width="997" alt="Screen Shot 2021-10-28 at 9 28 16 PM" src="https://user-images.githubusercontent.com/79756630/139405185-33396ed5-1e8c-459b-9d62-d247f37466a8.png">
 
-Franchise films and the studios that produce them have the highest domestic gross. The second visual shows us that smaller studios (IFC, SPC, Wein), while creating a lot of content, do not yield the same gross. Therefore, we recommend that Microsoft focuses on content based on their own gaming properties to create content. 
+Franchise films and the studios that produce them have the highest domestic gross. The third visual shows us that smaller studios (IFC, SPC, Wein), while creating a lot of content, do not yield the same gross. Therefore, we recommend that Microsoft focuses on content based on their own gaming properties to create content. 
 
-<img width="1013" alt="Screen Shot 2021-10-29 at 12 53 51 PM" src="https://user-images.githubusercontent.com/79756630/139475875-ba384995-f8f9-46e1-b78c-bc854fbd190c.png">
+![Screenshot 2021-10-29 114056](https://user-images.githubusercontent.com/72315132/139463832-a5f99f4c-30fb-496b-8706-fb92707eedc0.png)
 
 Studio acquisition is highly recommended, as the top content producers all operate under parent companies. Mini-major studios such as Relativity Media can be
 acquired by Microsoft to boost content production.
@@ -65,7 +61,7 @@ acquired by Microsoft to boost content production.
 
 ## Conclusions
 
-From these insights, we can conclude the following:
-* The data suggests that content production be focused upon the action, and adventure genres.
-* The majority of blockbuster films are established franchises or properties. Movies created by Microsoft should follow this trend.
-* The largest production studios are all under parent companies. Microsoft should acquire at least one additional studio to increase production rates and gross earning potential.
+This analysis leads to three recommendations for Microsoft's new movie studio.
+* The consistent trend of movies in the last decade have geared towards sci-fi, action, and adventure, or a combination of the three. Therefore, we recommend Microsoft focus on making movies like this because of the correlation between these three genres and profits.
+* Any action/scifi/adventures movies made should be based upon Microsoft properties (Halo, Minecraft, etc). The highest grossing films are all established properties with large fanbases, and it is our recommendation that Microsoft follow suit with their own. This will ensure Microsoft isn't burdened with license and copyright fees for action content production.
+* Drama and Comedy content are two other genres that should be considered. These genres dominate movie creation and also yield high profits. Animated comedy films typically have lower budgets, and the recent increase in cultural popularity of animated content encourages increased content creation. Drama films are consistently popular and have crossover appeal between genres (romance, adventure, scifi, etc) as well. Drama films can be based upon established properties or original creations.
