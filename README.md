@@ -35,6 +35,15 @@ Over the last decade, domestic and worldwide film profits reveal general audienc
 
 <img width="997" alt="Screen Shot 2021-10-28 at 9 28 16 PM" src="https://user-images.githubusercontent.com/79756630/139405185-33396ed5-1e8c-459b-9d62-d247f37466a8.png">
 
+Franchise films and the studios that produce them have the highest domestic gross. The third visual shows us that smaller studios (IFC, SPC, Wein), while creating a lot of content, do not yield the same gross. Therefore, we recommend that Microsoft focuses on content based on their own gaming properties to create content. 
+
+![Screenshot 2021-10-29 114056](https://user-images.githubusercontent.com/72315132/139463832-a5f99f4c-30fb-496b-8706-fb92707eedc0.png)
+
+Studio acquisition is highly recommended, as the top content producers all operate under parent companies. Mini-major studios such as Relativity Media can be
+acquired by Microsoft to boost content production.
+
+![Screenshot 2021-10-29 114123](https://user-images.githubusercontent.com/72315132/139463851-36462609-b5e7-4aa6-b5a4-cdd4a957d08c.png)
+
 ## Conclusions
 
 This analysis leads to three recommendations for Microsoft's new movie studio.
