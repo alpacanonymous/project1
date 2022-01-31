@@ -1,6 +1,6 @@
-# Film Production Recommendations for Microsoft's New Movie Studio
+# Recommendations for Microsoft Studios
 
-**Authors:** Aisha Baitemirova-Othman, Adonis McQueen, Angela Kim, Deja Prade, James Kang
+**Authors:** Angela Kim, Aisha Baitemirova-Othman, Adonis McQueen, Deja Prade, James Kang
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project analyzes movie datasets from multiple databases to come up with a b
 
 ## Business Problem & Key Questions
 
-Microsoft wants to create a new movie studio but requires data-driven recommendations in order to decide what types of films to produce.
+Microsoft wants to create a new movie studio but requires data-driven recommendations in order to decide what types of films to produce. We seek to answer the following questions:
 
 * *Which films in the past decade have made the most profit?*
 * *What are the genres of these films?*
@@ -67,3 +67,28 @@ This analysis leads to three recommendations for Microsoft's new movie studio.
 * The consistent trend of movies in the last decade have geared towards drama, action, and comedy, or a combination of the three. Therefore, we recommend Microsoft focus on making movies like this because of the correlation between these three genres and profits.
 * Any action/scifi/adventures movies made should be based upon Microsoft properties (Halo, Minecraft, etc). The highest grossing films are all established properties with large fanbases, and it is our recommendation that Microsoft follow suit with their own. This will ensure Microsoft isn't burdened with license and copyright fees for action content production.
 * Microsoft should strongly consider acquiring an additional studio for content production. The most successful studios are all under a parent company, and Microsoft would greatly benefit by following their example.
+
+
+```
+├── [data]
+│    ├── bom.movie_gross.csv.gz
+│    ├── imdb.name.basics.csv.gz
+│    ├── imdb.title.akas.csv.gz
+│    ├── imdb.title.basics.csv.gz
+│    ├── imdb.title.crew.csv.gz
+│    ├── imdb.title.principals.csv.gz
+│    ├── imdb.title.ratings.csv.gz
+│    ├── rt.movie_info.tsv.gz
+│    ├── rt.reviews.tsv.gz
+│    ├── tmdb.movies.csv.gz
+│    └── tn.movie_budgets.csv.gz
+├── [images]
+├── [pdfs]
+│    ├── github.pdf
+│    ├── notebook.pdf
+│    └── presentation.pdf
+├── .gitignore
+├── README.md
+├── notebook.ipynb
+└── presentation.pdf
+```
