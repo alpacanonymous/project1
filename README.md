@@ -1,6 +1,7 @@
 # Recommendations for Microsoft Studios
 
 **Authors:** Angela Kim, Aisha Baitemirova-Othman, Adonis McQueen, Deja Prade, James Kang
+**Instructor:** David Elliott
 
 ## Overview
 
